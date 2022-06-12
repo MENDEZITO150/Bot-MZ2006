@@ -35,7 +35,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/BrunoSobrino/TheMystic-Bot-MD
+> git clone https://github.com/MENDEZITO150/Bot-MZ2006
 > cd TheMystic-Bot-MD
 > npm install
 > yarn install 
@@ -61,7 +61,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > npm start
 ```
 
-#
+# 
 
 ### `—◉ 📝 NOTAS 📝`
 ```bash
