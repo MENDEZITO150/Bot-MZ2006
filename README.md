@@ -81,6 +81,9 @@ HOLA ME LLAMO JHON MENDEZ SUB EDITOR DE ESTE BOT
 LOS DERECHOS DE LA BASE Y BOT PARA 👇👇🇨🇴 GRACIAS
 POR APOYARME EN ESTO <3
 
+<p align="center">
+<img src="https://github.com/shanduy/ShanBot/blob/main/temples/ezgif-4-5e4fce2c4bbe.gif" alt="GIF" width="500" height="281"/>
+</p>
 
 `ThE Botmendez2006__________ By Jhon Méndez`
  owner:BRUNO SOBRINO
