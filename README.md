@@ -38,7 +38,6 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 >cd Bot-MZ2006
 >npm install
 >yarn install 
->npm install
 >npm update
 >npm start
 ```
