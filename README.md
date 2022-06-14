@@ -26,22 +26,21 @@ ADVERTENCIAS:
 ### `—◉ 👾 ACTIVAR EN TERMUX 👾`
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd
-> termux-setup-storage
-> apt update 
-> pkg upgrade 
-> pkg install git -y
-> pkg install nodejs -y
-> pkg install ffmpeg -y
-> pkg install imagemagick -y
-> pkg install yarn
-> git clone https://github.com/MENDEZITO150/Bot-MZ2006
-> cd BOT_V2
-> npm install
-> yarn install 
-> npm install
-> npm update
-> npm start
+>termux-setup-storage
+>apt update 
+>pkg upgrade 
+>pkg install git -y
+>pkg install nodejs -y
+>pkg install ffmpeg -y
+>pkg install imagemagick -y
+>pkg install yarn
+>git clone https://github.com/MENDEZITO150/Bot-MZ2006
+>cd Bot-MZ2006
+>npm install
+>yarn install 
+>npm install
+>npm update
+>npm start
 ```
 
 ### `—◉ ✔️ ACTIVAR EN CASO DE DETENERSE ✔️`
