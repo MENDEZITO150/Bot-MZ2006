@@ -82,7 +82,7 @@ LOS DERECHOS DE LA BASE Y BOT PARA 👇👇🇨🇴 GRACIAS
 POR APOYARME EN ESTO <3
 
 <p align="center">
-<img src="https://github.com/shanduy/ShanBot/blob/main/temples/ezgif-4-5e4fce2c4bbe.gif" alt="GIF" width="500" height="281"/>
+<img src="content://com.android.chrome.FileProvider/images/screenshot/1655242016576261266682674661059.jpg" alt="GIF" width="500" height="281"/>
 </p>
 
 `ThE Botmendez2006__________ By Jhon Méndez`
