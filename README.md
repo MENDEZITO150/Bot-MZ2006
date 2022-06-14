@@ -81,9 +81,9 @@ HOLA ME LLAMO JHON MENDEZ SUB EDITOR DE ESTE BOT
 LOS DERECHOS DE LA BASE Y BOT PARA 👇👇🇨🇴 GRACIAS
 POR APOYARME EN ESTO <3
 
-<p align="center">
-<img src="content://com.android.chrome.FileProvider/images/screenshot/1655242016576261266682674661059.jpg" alt="GIF" width="500" height="281"/>
-</p>
+<p align="center"> 
+<img src="https://i.pinimg.com/originals/67/40/8a/67408ab5444616b71968475001f18e88.gif" alt="gif" width="500" height="279"/> 
+</p> 
 
 `ThE Botmendez2006__________ By Jhon Méndez`
  owner:BRUNO SOBRINO
