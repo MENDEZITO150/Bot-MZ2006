@@ -46,7 +46,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd TheMystic-Bot-MD
+> cd Bot-MZ2006
 > npm start
 ```
 
@@ -54,7 +54,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd TheMystic-Bot-MD
+> cd Bot-MZ2006
 > rm -rf session.data.json
 > npm start
 ```
