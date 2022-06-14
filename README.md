@@ -79,7 +79,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ## `EDITOR Y PORPIETARIO DEL BOT` 
 HOLA ME LLAMO JHON MENDEZ SUB EDITOR DE ESTE BOT 
 LOS DERECHOS DE LA BASE Y BOT PARA 👇👇🇨🇴
-[![BrunoSobrino](https://ibb.co/nn1WB0g) 
+[![bot](https://github.com/MENDEZITO150/bot) 
 
 `ThE Botmendez2006__________ By Jhon Méndez`
  owner:BRUNO SOBRINO
