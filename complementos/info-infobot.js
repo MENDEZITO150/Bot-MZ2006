@@ -20,8 +20,8 @@ let speed = neww - old
 let info = `
 ╠═〘 𝐈𝐍𝐅𝐎 𝐃𝐄𝐋 𝐁𝐎𝐓 〙 ═
 ╠
-╠➥ [🤴🏻] 𝙲𝚁𝙴𝙰𝙳𝙾𝚁: *𝙱𝚛𝚞𝚗𝚘 𝚂𝚘𝚋𝚛𝚒𝚗𝚘*
-╠➥ [#️⃣] 𝙽𝙾° 𝙳𝙴𝙻 𝙲𝚁𝙴𝙰𝙳𝙾𝚁: *+52 1 999 209 5479*
+╠➥ [🤴🏻] 𝙲𝚁𝙴𝙰𝙳𝙾𝚁: *JHONM Y BRUNO SOBRINO*
+╠➥ [#️⃣] 𝙽𝙾° 𝙳𝙴𝙻 𝙲𝚁𝙴𝙰𝙳𝙾𝚁: *+57 323 6191090*
 ╠➥ [🎳] 𝙿𝚁𝙴𝙵𝙸𝙹𝙾: *${usedPrefix}*
 ╠➥ [🔐] 𝙲𝙷𝙰𝚃𝚂 𝙿𝚁𝙸𝚅𝙰𝙳𝙾𝚂: *${chats.length - groups.length}*
 ╠➥ [🦜] 𝙲𝙷𝙰𝚃𝚂 𝙳𝙴 𝙶𝚁𝚄𝙿𝙾𝚂: *${groups.length}* 
@@ -41,7 +41,7 @@ contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: nul
 title: '𝙸𝙽𝙵𝙾 𝙳𝙴𝙻 𝙱𝙾𝚃',
 body: 'ᴛʜᴇ ᴍʏsᴛɪᴄ ﹣ ʙᴏᴛ',         
 previewType: 0, thumbnail: fs.readFileSync("./Menu2.jpg"),
-sourceUrl: `https://github.com/BrunoSobrino/TheMystic-Bot-MD`}}})
+sourceUrl: `https://github.com/MENDEZITO150/Bot-MZ2006`}}})
 }
 handler.help = ['infobot', 'speed']
 handler.tags = ['info', 'tools']
