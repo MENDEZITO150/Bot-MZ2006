@@ -82,7 +82,7 @@ LOS DERECHOS DE LA BASE Y BOT PARA 👇👇🇨🇴 GRACIAS
 POR APOYARME EN ESTO <3
 
 <p align="center"> 
-<img src="https://i.pinimg.com/originals/67/40/8a/67408ab5444616b71968475001f18e88.gif" alt="gif" width="500" height="279"/> 
+<[Omg]="https://i.imgur.com/QyovKKL.png" alt="gif" width="500" height="279"/> 
 </p> 
 
 `ThE Botmendez2006__________ By Jhon Méndez`
