@@ -81,7 +81,7 @@ HOLA ME LLAMO JHON MENDEZ SUB EDITOR DE ESTE BOT
 LOS DERECHOS DE LA BASE Y BOT PARA 👇👇🇨🇴 GRACIAS
 POR APOYARME EN ESTO <3
 
-![img](https://i.imgur.com/QyovKKL.png)
+![img](https://ibb.co/vQ9BjWJ)
 
 
 `ThE Botmendez2006__________ By Jhon Méndez`
