@@ -3,7 +3,7 @@
 ## PRONTAS ACTUALIZACIONES 😈🇨🇴
 
 ### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTAME 👑`
-<a href="https://wa.me/c/573007650165" target="blank"><img src="https://img.shields.io/badge/MENDEZBOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://wa.me/message/W6GFE5ERA6U4I1" target="blank"><img src="https://img.shields.io/badge/MENDEZBOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 > ESTE NUMERO ES DEL BOT Y DEL ADMIN TRATAREMOS DE
 RESPONDER A TU INQUIETUD 
 
