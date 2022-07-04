@@ -1,6 +1,6 @@
 # `🇨🇴𝚃𝚑𝚎 Mendez - 𝙱𝚘𝚝 😈🔮`
 
-## PRONTAS ACTUALIZACIONES 😈🇨🇴
+## BOT EN PRUEBA DE ERRORES 😈🇨🇴
 
 ### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTAME 👑`
 <a href="https://wa.me/message/W6GFE5ERA6U4I1" target="blank"><img src="https://img.shields.io/badge/MENDEZBOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
