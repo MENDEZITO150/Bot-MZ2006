@@ -7,9 +7,18 @@
 > ESTE NUMERO ES DEL BOT Y DEL ADMIN TRATAREMOS DE
 RESPONDER A TU INQUIETUD 
 
+[![blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+](https://youtube.com/channel/UCdPOQ4Wn6zNu8P3e98rXZwg)
+
+
 ### `—◉ ✨ DONAR PARA MEJORAS✨`
 
-#proximamente
+`proximamente paypal`
+
+Sígueme en Youtube para actualizaciones de el bot
+Y mucho más
+
+
 ```bash
      INFORMACIÓN 🇨🇴🇨🇴🇨🇴
 > NUESTRO BOT SE ENCUENTRA EN MANTENIMIENTO 
