@@ -9,14 +9,13 @@ RESPONDER A TU INQUIETUD
 
 [![blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ](https://youtube.com/channel/UCdPOQ4Wn6zNu8P3e98rXZwg)
+`Sígueme en Youtube para actualizaciones de el bot
+Y mucho mas`
 
 
 ### `—◉ ✨ DONAR PARA MEJORAS✨`
 
 `proximamente paypal`
-
-Sígueme en Youtube para actualizaciones de el bot
-Y mucho más
 
 
 ```bash
@@ -35,7 +34,11 @@ ADVERTENCIAS:
 *  Conexión estable de Internet
 *  Aplicación Termux (actualizada)
 *  Un número disponible para el BOT
-- 
+*  Necesitas un número especial para el bot?
+Escríbeme al WhatsApp pv 
+
+-
+
 
 ### `—◉ 👾 ACTIVAR EN TERMUX 👾`
 ```bash
