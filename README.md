@@ -29,7 +29,12 @@ ADVERTENCIAS:
 ```
 
 ### `—◉ ⚙️ AJUSTES E INFORMACIÓN ⚙️`
-- derechos de la base del bot Bruno sobrino
+
+-✅ DEBE DE TENER A SU DISPOSICIÓN: 
+
+*  Conexión estable de Internet
+*  Aplicación Termux (actualizada)
+*  Un número disponible para el BOT
 - 
 
 ### `—◉ 👾 ACTIVAR EN TERMUX 👾`
