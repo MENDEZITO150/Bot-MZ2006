@@ -1,7 +1,7 @@
 # `🇨🇴𝚃𝚑𝚎 Mendez - 𝙱𝚘𝚝 😈🔮`
 
 ## BOT EN PRUEBA DE ERRORES 😈🇨🇴
-
+![img](https://github.com/thechoute/Baby-Ofc/blob/main/media/pornhub.jpg)
 ### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTAME 👑`
 <a href="https://wa.me/message/W6GFE5ERA6U4I1" target="blank"><img src="https://img.shields.io/badge/MENDEZBOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 > ESTE NUMERO ES DEL BOT Y DEL ADMIN TRATAREMOS DE
@@ -98,7 +98,6 @@ LOS DERECHOS DE LA BASE Y BOT PARA 👇👇🇨🇴 GRACIAS
 POR APOYARME EN ESTO <3
 
 ![img](https://imgur.com/aqyI6wx.png)
-![img](https://github.com/thechoute/Baby-Ofc/blob/main/media/pornhub.jpg)
 
 `ThE Botmendez2006__________ By Jhon Méndez`
  owner:BRUNO SOBRINO
