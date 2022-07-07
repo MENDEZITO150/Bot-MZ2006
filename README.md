@@ -101,4 +101,7 @@ POR APOYARME EN ESTO <3
 ![img](https://imgur.com/aqyI6wx.png)
 
 `ThE Botmendez2006__________ By Jhon Méndez`
- owner:BRUNO SOBRINO
+
+### 🌟 AGRADECIMIENTOS <img src="https://github.com/siegrin/siegrin/blob/main/Assets/powerup.gif" height="29px">
+
+   [![TheShadowBrokers1](https://github.com/BrunoSobrino.png?size=100)](https://github.com/BrunoSobrino) 
