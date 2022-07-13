@@ -1,12 +1,15 @@
 import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath } from 'url'
+import fs from 'fs'
+
 
 global.owner = [
-  ['573236191090', '👑 BOTMENDEZ - Creador 👑', true],
-  ['573236191090', '🤖 MENDEZV2 - Bot 🤖', true],
-  ['573236191090']
-] // Cambia los numero que quieras
+  ['5219992095479', '👑 Mystic - Creador 👑', true],
+  ['34642467703', '👑 Mystic - Collaborator 1 👑', true],
+  ['5219991402134', '🤖 Mystic - Bot 🤖', true],
+  ['5219996125657']
+] // Cambia los numeros que quieras
 global.mods = [] 
 global.prems = [] 
 global.APIs = { // API Prefix
@@ -37,7 +40,8 @@ global.APIs = { // API Prefix
   neoxr: 'https://neoxr-api.herokuapp.com',
   ana: 'https://anabotofc.herokuapp.com/',
   kanx: 'https://kannxapi.herokuapp.com/',
-  dhnjing: 'https://dhnjing.xyz'
+  dhnjing: 'https://dhnjing.xyz',
+  violetics: 'https://violetics.pw'
 },
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
@@ -56,22 +60,23 @@ global.APIKeys = { // APIKey Here
   'https://api.lolhuman.xyz': '9b817532fadff8fc7cb86862',
   'https://botstyle-api.herokuapp.com': 'Eyar749L',
   'https://neoxr-api.herokuapp.com': 'yntkts',
-  'https://anabotofc.herokuapp.com/': 'AnaBot'
+  'https://anabotofc.herokuapp.com/': 'AnaBot',
+  'https://violetics.pw': 'beta'
 }
 
 // Sticker WM
 global.packname = '(☞ﾟ∀ﾟ)☞'
-global.author = '★𝚃𝚑𝚎 mendezbot - 𝙱𝚘𝚝★'
+global.author = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
 
-global.wm = '★𝚃𝚑𝚎 Méndezbot - 𝙱𝚘𝚝★'
-global.igfg = '★𝚃𝚑𝚎 Méndezbot - 𝙱𝚘𝚝★'
+global.wm = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
+global.igfg = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
-mundial _ imagen1  =  fs . readFileSync ( './Menu2.jpg' )
-mundial _ imagen2  =  fs . readFileSync ( './src/nuevobot.jpg' ) 
-mundial _ imagen3  =  fs . readFileSync ( './src/Pre Bot Publi.png' )
+global.imagen1 = fs.readFileSync('./Menu2.jpg')
+global.imagen2 = fs.readFileSync('./src/nuevobot.jpg') 
+global.imagen3 = fs.readFileSync('./src/Pre Bot Publi.png')
 
-global.multiplier = 9999 // The higher, The harder levelup
+global.multiplier = 9999 
 
 global.rpg = {
   emoticon(string) {
