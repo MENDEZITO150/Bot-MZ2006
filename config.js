@@ -6,7 +6,7 @@ import fs from 'fs'
 
 global.owner = [
   ['573236191090', '👑 the mendez - Creador 👑', true],
-  ['573236191090', '👑 jhonmendez- Collaborator 1 👑', true],
+  ['573236191090', '👑 JHON MENDEZ- Collaborator 1 👑', true],
   ['573236191090', '🤖 the mendez- Bot 🤖', true],
   ['573236191090']
 ] // Cambia los numeros que quieras
