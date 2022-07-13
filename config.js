@@ -70,6 +70,7 @@ global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 mundial _ imagen1  =  fs . readFileSync ( './Menu2.jpg' )
 mundial _ imagen2  =  fs . readFileSync ( './src/nuevobot.jpg' ) 
 mundial _ imagen3  =  fs . readFileSync ( './src/Pre Bot Publi.png' )
+
 global.multiplier = 9999 // The higher, The harder levelup
 
 global.rpg = {
