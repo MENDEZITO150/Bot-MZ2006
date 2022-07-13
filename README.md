@@ -33,7 +33,7 @@ ADVERTENCIAS:
 -✅ DEBE DE TENER A SU DISPOSICIÓN: 
 
 *  Conexión estable de Internet
-*  Aplicación Termux (actualizada)
+*  Application termux (actualizada)
 *  Un número disponible para el BOT
 *  Necesitas un número especial para el bot?
 Escríbeme al WhatsApp pv 
@@ -41,7 +41,7 @@ Escríbeme al WhatsApp pv
 -
 
 
-### `—◉ 👾 ACTIVAR EN TERMUX 👾`
+### `—◉ 👾 ACTIVAR EN TERMUX 👾` 
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 >termux-setup-storage
