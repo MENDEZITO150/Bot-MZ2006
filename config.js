@@ -73,8 +73,6 @@ global.igfg = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg')
-global.imagen3 = fs.readFileSync('./src/Pre Bot Publi.png')
-
 global.multiplier = 9999 
 
 global.rpg = {
