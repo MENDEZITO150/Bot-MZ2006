@@ -1,4 +1,4 @@
-let limit = 50
+let limit = 300
 import fs from 'fs'
 import fetch from 'node-fetch'
 import { youtubedl, youtubedlv2, youtubedlv3 } from '@bochilteam/scraper';
