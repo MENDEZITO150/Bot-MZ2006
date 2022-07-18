@@ -1,13 +1,14 @@
 let media = './Menu2.jpg'
 let handler = async (m, { conn, command }) => conn.sendButton(m.chat, `
-*Hola 👋🏻, unete a los grupos oficiales para pasar un rato agradable usando el Bot o platicando con la familia de The MENDEZBOTV2- Bot*
+*Hola 👋🏻, unete a los grupos oficiales para pasar un rato agradable usando el Bot o platicando con la familia de The MENDEZBOTV2- Bot🐱‍👤*
 
 *➤ Grupos oficiales del Bot:*
+
 *1.-* https://chat.whatsapp.com/GWUtDFilWhPD0QVFjTnJll
 
-*2.-* 
+*2.-* https://chat.whatsapp.com/HlDG6DpgZXxELdlkDedqIe
 
-*3.-* 
+*3.-* https://chat.whatsapp.com/IjW0kg3ZchxJkCBNiUUtoG
 
 *4.-* 
 
