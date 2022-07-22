@@ -6,7 +6,7 @@ let handler = async (m, { conn, command }) => conn.sendButton(m.chat, `
 
 *1.-* https://chat.whatsapp.com/GWUtDFilWhPD0QVFjTnJll
 
-*2.-* https://chat.whatsapp.com/HlDG6DpgZXxELdlkDedqIe
+*2.-* https://chat.whatsapp.com/Fle4rIY3HhD95mrtMzAGgI
 
 *3.-* https://chat.whatsapp.com/IjW0kg3ZchxJkCBNiUUtoG
 
