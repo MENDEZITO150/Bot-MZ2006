@@ -127,6 +127,9 @@ let str = `
 ° ඬ⃟☑️ _${usedPrefix}disable *audios*_
 ° ඬ⃟☑️ _${usedPrefix}enable *autosticker*_
 ° ඬ⃟☑️ _${usedPrefix}disable *autosticker*_
+° ඬ⃟☑️ _${usedPrefix}enable *antiviewonce*_
+° ඬ⃟☑️ _${usedPrefix}disable *antiviewonce*_
+
 
 *<ℝ𝔼ℙ𝕆ℝ𝕋𝔼𝕊 𝔻𝔼 𝔽𝔸𝕃𝕃𝕆𝕊/>*
 
@@ -203,6 +206,11 @@ let str = `
 ° ඬ⃟🖍️ _${usedPrefix}pixelar_
 ° ඬ⃟🖍️ _${usedPrefix}blur_
 
+*<𝔽ℝ𝔸𝕊𝔼𝕊/>*
+
+° ඬ⃟🥀 _${usedPrefix}consejo_
+° ඬ⃟🥀 _${usedPrefix}fraseromantica_
+
 *<ℝ𝔸ℕ𝔻𝕆𝕄/>*
 
 ° ඬ⃟👾 _${usedPrefix}cristianoronaldo_
@@ -252,11 +260,6 @@ let str = `
 ° ඬ⃟👾 _${usedPrefix}sasuke_
 ° ඬ⃟👾 _${usedPrefix}sakura_
 ° ඬ⃟👾 _${usedPrefix}cosplay_
-
-*<𝔽ℝ𝔸𝕊𝔼𝕊/>*
-
-° ඬ⃟🥀 _${usedPrefix}consejo_
-° ඬ⃟🥀 _${usedPrefix}fraseromantica_
 
 *<ℂ𝕆𝕄𝔸ℕ𝔻𝕆𝕊 +𝟙𝟠/>*
 
