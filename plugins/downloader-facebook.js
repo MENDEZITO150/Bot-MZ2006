@@ -12,3 +12,4 @@ m.reply('*[❗𝐈𝐍𝐅𝐎❗] 𝙴𝚁𝚁𝙾𝚁, 𝙿𝙾𝚁 𝙵𝙰�
 }}
 handler.command = /^((facebook|fb)(downloder|dl)?)$/i
 export default handler
+
