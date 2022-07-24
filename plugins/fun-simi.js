@@ -9,4 +9,4 @@ m.reply(`${tes}`)
 handler.help = ['simsimi']
 handler.tags = ['General']
 handler.command = ['bot', 'simi', 'simsimi'] 
-export default handlery 
+export default handler
